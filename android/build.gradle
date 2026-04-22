@@ -28,7 +28,7 @@ apply plugin: 'kotlin-android'
 android {
     compileSdkVersion 33
     
-    namespace "com.example.screenshot_callback_fix"
+    namespace "com.example.screenshot_callback"
 
     defaultConfig {
         minSdkVersion 21
